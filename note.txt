@@ -1,0 +1,5 @@
+pip install pynput
+cmd bash:startup
+where python
+appdata roaming microsoft windows startmenu program startup
+"2" "1"
